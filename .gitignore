@@ -1,2 +1,9 @@
 *.ipynb_checkpoints/
 .DS_Store
+
+# ignore the archive
+*archive.zip
+
+# ignore the data file
+*2019-Nov.csv
+*2019-Oct.csv
